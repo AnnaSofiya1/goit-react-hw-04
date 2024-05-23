@@ -8,8 +8,8 @@ export default function Loader({isLoading}) {
   height="50"
   width="50"
   radius="48"
-  color= "#800080"
-  ariaLabel="infinity-spin-loading"
+  color= "#8b008b"
+  ariaLabel="watch-loading"
           wrapperStyle={{
               marginTop: '20px',
              display: 'flex',

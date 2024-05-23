@@ -36,7 +36,6 @@ if (searchValue.trim() === "") {
          setIsError(true);
       } finally {setIsLoading(false)}
     };
-    
     fetchImages()
   }, [searchValue, page]);
  
